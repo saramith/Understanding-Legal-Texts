@@ -1,0 +1,17 @@
+2023-03-09 22:42:24,142 - tensorflow - WARNING - Please fix your imports. Module tensorflow.python.training.tracking.data_structures has been moved to tensorflow.python.trackable.data_structures. The old module will be deleted in version 2.11.
+2023-03-09 22:42:24,145 - absl - INFO - Using C:\Users\kisha\AppData\Local\Temp\tfhub_modules to cache modules.
+2023-03-09 22:42:24,158 - absl - INFO - Downloading TF-Hub Module 'https://tfhub.dev/tensorflow/bert_en_uncased_preprocess/3'.
+2023-03-09 22:42:26,795 - absl - INFO - Downloaded https://tfhub.dev/tensorflow/bert_en_uncased_preprocess/3, Total size: 1.96MB
+2023-03-09 22:42:26,807 - absl - INFO - Downloaded TF-Hub Module 'https://tfhub.dev/tensorflow/bert_en_uncased_preprocess/3'.
+2023-03-09 22:42:32,736 - absl - INFO - Downloading TF-Hub Module 'https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/4'.
+2023-03-09 22:42:50,386 - absl - INFO - Downloading https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/4: 89.52MB
+2023-03-09 22:43:05,785 - absl - INFO - Downloading https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/4: 169.52MB
+2023-03-09 22:43:21,150 - absl - INFO - Downloading https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/4: 249.52MB
+2023-03-09 22:43:36,245 - absl - INFO - Downloading https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/4: 329.52MB
+2023-03-09 22:43:51,400 - absl - INFO - Downloading https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/4: 409.52MB
+2023-03-09 22:43:55,567 - absl - INFO - Downloaded https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/4, Total size: 429.66MB
+2023-03-09 22:43:55,580 - absl - INFO - Downloaded TF-Hub Module 'https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/4'.
+2023-03-10 10:45:49,658 - tensorflow - WARNING - Please fix your imports. Module tensorflow.python.training.tracking.data_structures has been moved to tensorflow.python.trackable.data_structures. The old module will be deleted in version 2.11.
+2023-03-10 10:45:49,667 - absl - INFO - Using C:\Users\kisha\AppData\Local\Temp\tfhub_modules to cache modules.
+2023-03-10 10:50:27,429 - tensorflow - WARNING - Please fix your imports. Module tensorflow.python.training.tracking.data_structures has been moved to tensorflow.python.trackable.data_structures. The old module will be deleted in version 2.11.
+2023-03-10 10:50:27,432 - absl - INFO - Using C:\Users\kisha\AppData\Local\Temp\tfhub_modules to cache modules.
